@@ -1,0 +1,32 @@
+
+.css1
+{
+    background-color:#ff9f40;
+    height: 500px; 
+    width:500px;
+}
+.css2
+{
+    height: 50%; 
+    width: 50%; 
+    background-color: #98fb98;  
+}
+.css3
+{
+    font-weight: bolder; 
+    font-size: 25px; 
+    color:#ffffff; 
+    background-color: #ff0000;
+}
+.css4
+{
+    width: 50%; 
+    height: 50vh; 
+    background-color: #00a1ff;
+}
+.css5
+{
+    width: 75vw;
+    height: 50%; 
+    background-color: #ff0000;
+}
